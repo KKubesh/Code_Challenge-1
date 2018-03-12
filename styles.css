@@ -1,0 +1,13 @@
+.genDiv {
+  height: 60px;
+  background-color: red;
+  margin: 20px;
+  padding: 10px;
+}
+
+.highlight {
+  height: 60px;
+  background-color: red;
+  margin: 20px;
+  padding: 10px;
+}
